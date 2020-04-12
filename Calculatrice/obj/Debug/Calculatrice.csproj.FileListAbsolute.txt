@@ -1,0 +1,7 @@
+C:\Users\820\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\820\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\820\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\820\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\820\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\820\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\820\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
